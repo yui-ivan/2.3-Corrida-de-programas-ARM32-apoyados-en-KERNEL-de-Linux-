@@ -4,3 +4,4 @@ Borrar y modificar a su gusto este README, pero antes utilizar estas condiciones
 
 # Corrida de programas Codigo Comentado en C y en ensamblador
 
+En este repositorio se realizo codigo en C, se compilo y corrio para comprobar su funcionamiento, despues se desnesamblo de un manera general, para obtener un codigo de ensamblador, ya en este codigo se subio a un respositorio y se comento el codigo de C en el de ensamblador
